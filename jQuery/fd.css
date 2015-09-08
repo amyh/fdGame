@@ -1,0 +1,51 @@
+body {
+	margin: 2em;
+	color: #111;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+.heading {
+	font-family: 'Emilys Candy', cursive;
+	color: #e0d;
+}
+
+.hidden {
+	display: none;
+}
+
+.resp1 {
+	display: block;
+	height: 120px;
+	background: url("img/smile.png") 0 50% no-repeat;
+	padding: 25px 0 0 125px;
+	font-size: 1.4em;
+}
+
+.resp2 {
+	display: block;
+	height: 120px;
+	background: url("img/bleah.png") 0 50% no-repeat;
+	padding: 25px 0 0 125px;
+	font-size: 1.4em;
+}
+
+.love {
+	font-family: 'Emilys Candy', cursive;
+	color: #e0d;
+	font-size: 1.8em;
+}
+
+.hate {
+	font-family: 'Emilys Candy', cursive;
+	color: #7bc800;
+	font-size: 1.8em;
+}
